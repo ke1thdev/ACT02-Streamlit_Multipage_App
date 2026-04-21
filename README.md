@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Streamlit-Dark.svg" alt="Streamlit Logo" width="80" />
+  <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit Logo" width="80" />
   <h1>Modern Streamlit Portfolio</h1>
   <p>A highly customized, premium portfolio web application built with Streamlit and modern CSS.</p>
 </div>
@@ -65,4 +65,3 @@ To run this application locally, ensure you have Python and `streamlit` installe
 ## 📄 License & Attribution
 
 Designed and developed by **Keith**.  
-*(Include your preferred license here, e.g., MIT License)*
