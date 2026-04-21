@@ -126,6 +126,15 @@ def set_page_style(mode: str) -> None:
     footer {{ visibility:hidden; }}
     [data-testid="stHeader"] {{ background:transparent; }}
 
+    /* Fix header buttons (e.g. collapsed sidebar toggle) so they are visible in light mode */
+    [data-testid="collapsedControl"],
+    [data-testid="collapsedControl"] *,
+    button[kind="header"],
+    button[kind="header"] * {{
+        color:var(--text)!important;
+        fill:var(--text)!important;
+    }}
+
     /* custom scrollbar */
     ::-webkit-scrollbar {{ width:6px; }}
     ::-webkit-scrollbar-track {{ background:var(--bg); }}
