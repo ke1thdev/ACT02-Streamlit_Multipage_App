@@ -31,7 +31,7 @@ with right:
     render_glass_card(f"""
         <h3>Profiles</h3>
         <div style="display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.5rem;">
-            <a class="social-link" href="https://facebook.com/rnzrmbln" target="_blank">{get_icon('external_link',14)} Facebook</a>
+            <a class="social-link" href="https://facebook.com/ke1th.dev" target="_blank">{get_icon('external_link',14)} Facebook</a>
             <a class="social-link" href="https://www.instagram.com/ke1th.dev" target="_blank">{get_icon('external_link',14)} Instagram</a>
             <a class="social-link" href="https://www.github.com/ke1thdev" target="_blank">{get_icon('github',14)} GitHub</a>
             <a class="social-link" href="https://istorya.chat" target="_blank">{get_icon('message_circle',14)} Istorya</a>
